@@ -18,6 +18,10 @@ namespace FirstGitApp
             Print("Again New Message.");
         }
 
+        /// <summary>
+        /// Comment
+        /// </summary>
+        /// <param name="message"></param>
 		static void Print(string message)
 		{
 			Console.WriteLine($"Print {message}");
