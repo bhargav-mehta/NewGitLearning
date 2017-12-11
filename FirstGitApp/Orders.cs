@@ -10,5 +10,8 @@ namespace FirstGitApp
 	{
 		private string orderNumber;
 		public DateTime orderDate;
+
+		public Customer customer;
+		public decimal amount;
 	}
 }
