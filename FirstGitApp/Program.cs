@@ -14,6 +14,7 @@ namespace FirstGitApp
 			Console.WriteLine("Second line added in git code");
 			Console.WriteLine("Third line added in git code. Modified in my original machine");
 			Print("MyMessage");
+            Print("New Message.");
 		}
 
 		static void Print(string message)
