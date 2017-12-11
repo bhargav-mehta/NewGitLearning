@@ -11,4 +11,9 @@ namespace FirstGitApp
         public string FirstName { get; set; }
         public string LastName { get; set; }
     }
+
+    public class CustomerV1 :Customer
+    {
+
+    }
 }
