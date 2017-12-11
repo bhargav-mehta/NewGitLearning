@@ -12,7 +12,13 @@ namespace FirstGitApp
 		{
 			Console.WriteLine("This is my first git code. Modified.");
 			Console.WriteLine("Second line added in git code");
-			Console.WriteLine("Third line added in git code");
+			Console.WriteLine("Third line added in git code. Modified in my original machine");
+			Print("MyMessage");
+		}
+
+		static void Print(string message)
+		{
+			Console.WriteLine($"Print {message}");
 		}
 	}
 }
