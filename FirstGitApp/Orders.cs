@@ -22,7 +22,12 @@ namespace FirstGitApp
 
 	}
 
-	public class OrdersV2 : OrdersV2
+	public class OrdersV3 : OrdersV2
+	{
+
+	}
+
+	public class OrdersV4 : OrdersV3
 	{
 
 	}
