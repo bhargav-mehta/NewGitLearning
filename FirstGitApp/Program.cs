@@ -11,6 +11,7 @@ namespace FirstGitApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("This is my first git code");
+			Console.WriteLine("Second line added in git code");
 		}
 	}
 }
