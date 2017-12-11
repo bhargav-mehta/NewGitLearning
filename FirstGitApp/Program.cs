@@ -25,6 +25,7 @@ namespace FirstGitApp
 		static void Print(string message)
 		{
 			Console.WriteLine($"Print {message}");
+            Console.WriteLine("Print Completd");
 		}
 	}
 }
