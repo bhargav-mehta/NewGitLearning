@@ -13,6 +13,8 @@ namespace FirstGitApp
 
 		public Customer customer;
 		public decimal amount;
+
+        public string version;
 	}
 
 	public class OrdersV2:Orders
