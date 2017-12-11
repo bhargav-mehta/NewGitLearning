@@ -19,6 +19,6 @@ namespace FirstGitApp
 
     public class CustomerV2 : CustomerV1
     {
-
+        public string version;
     }
 }
