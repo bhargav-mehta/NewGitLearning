@@ -10,5 +10,7 @@ namespace FirstGitApp
 	{
 		private string orderNumber;
 		private DateTime orderDate;
+
+		public Customer customer;
 	}
 }
