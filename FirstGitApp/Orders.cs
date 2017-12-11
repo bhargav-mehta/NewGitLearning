@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace FirstGitApp
 {
-	class Orders
+	public class Orders
 	{
 		private string orderNumber;
-		private DateTime orderDate;
+		public DateTime orderDate;
 
 		public Customer customer;
 	}
