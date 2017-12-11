@@ -19,4 +19,9 @@ namespace FirstGitApp
 	{
 
 	}
+
+	public class OrdersV2 : OrdersV2
+	{
+
+	}
 }
